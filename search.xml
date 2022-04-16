@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>备忘录</title>
+      <link href="/2022/04/16/%E4%BB%A3%E7%A0%81%E5%9D%97%E6%BC%94%E7%A4%BA/%E5%A4%87%E5%BF%98%E5%BD%95/"/>
+      <url>/2022/04/16/%E4%BB%A3%E7%A0%81%E5%9D%97%E6%BC%94%E7%A4%BA/%E5%A4%87%E5%BF%98%E5%BD%95/</url>
+      
+        <content type="html"><![CDATA[<h3 id="密码存放"><a href="#密码存放" class="headerlink" title="密码存放"></a>密码存放</h3><h2 id="QQ密码"><a href="#QQ密码" class="headerlink" title="QQ密码"></a>QQ密码</h2><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span><span class="string">&lt;iostream&gt;</span></span></span><br><span class="line">using namespace <span class="built_in">std</span>;</span><br><span class="line"><span class="type">const</span> <span class="type">int</span> N =<span class="number">1e6</span>+<span class="number">10</span>;</span><br><span class="line"><span class="type">int</span> <span class="title function_">main</span><span class="params">(<span class="type">void</span>)</span></span><br><span class="line">&#123;</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><h2 id="weinxin-密码"><a href="#weinxin-密码" class="headerlink" title="weinxin 密码"></a>weinxin 密码</h2><h2 id="csdn密码"><a href="#csdn密码" class="headerlink" title="csdn密码"></a>csdn密码</h2>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>代码演示</title>
       <link href="/2022/04/14/%E4%BB%A3%E7%A0%81%E5%9D%97%E6%BC%94%E7%A4%BA/%E6%BC%94%E7%A4%BA/"/>
       <url>/2022/04/14/%E4%BB%A3%E7%A0%81%E5%9D%97%E6%BC%94%E7%A4%BA/%E6%BC%94%E7%A4%BA/</url>
